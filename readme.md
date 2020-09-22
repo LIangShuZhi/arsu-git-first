@@ -1,3 +1,3 @@
 ##  Arsu-Git-First
 
-hi everybory!
+hi everybody!
